@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Food-Waste-Reduction_Online/static/css/main.c9b2efe8.css",
+    "main.js": "/Food-Waste-Reduction_Online/static/js/main.a0639208.js",
+    "static/media/LemonCellar.png": "/Food-Waste-Reduction_Online/static/media/LemonCellar.381cd44f3649c33fc8e1.png",
+    "static/media/18-prawn.png": "/Food-Waste-Reduction_Online/static/media/18-prawn.20d6595f7e56732ed13c.png",
+    "static/media/16-mutton.png": "/Food-Waste-Reduction_Online/static/media/16-mutton.f1c8dc25510091616f0c.png",
+    "static/media/27-cauliflower.png": "/Food-Waste-Reduction_Online/static/media/27-cauliflower.b7d11cc61c849472e13c.png",
+    "static/media/38-strawberry.png": "/Food-Waste-Reduction_Online/static/media/38-strawberry.a0e799abb49faf51a404.png",
+    "static/media/36-pasta.png": "/Food-Waste-Reduction_Online/static/media/36-pasta.cff2aae2f5c03f68b37b.png",
+    "static/media/31-peaches.png": "/Food-Waste-Reduction_Online/static/media/31-peaches.06ca7be2a516455e0dd3.png",
+    "static/media/40-cabbage.png": "/Food-Waste-Reduction_Online/static/media/40-cabbage.603ee4edc9aa954a6160.png",
+    "index.html": "/Food-Waste-Reduction_Online/index.html",
+    "main.c9b2efe8.css.map": "/Food-Waste-Reduction_Online/static/css/main.c9b2efe8.css.map",
+    "main.a0639208.js.map": "/Food-Waste-Reduction_Online/static/js/main.a0639208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b2efe8.css",
+    "static/js/main.a0639208.js"
+  ]
+}
